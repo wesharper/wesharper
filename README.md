@@ -17,6 +17,7 @@
 - Astro
 - Svelte
 - React
+- TailwindCSS
 - NestJS
 - Django
 - Prisma
