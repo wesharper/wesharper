@@ -8,12 +8,13 @@
 
 #### Things I'm Working on Now
 - Senior software engineer @[Colorado Rockies](https://rockies.com)
-- Co-founder @[Like Now](https://like-now.app) - A mobile app that aims to become the op
+- Co-founder @[Like Now](https://like-now.app)
 
 #### Favorite Technologies
 - Typescript
 - Astro
 - Svelte
+    - Melt UI
 - TailwindCSS
 - Go
 - NestJS
