@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Weston. I'm a software engineer, entrepreneur, and educator in Denver, CO.
+### Hi there 👋, I'm Weston - a software engineer, entrepreneur, and educator in Denver, CO.
 
 #### Career Highlights
 - Senior software engineer at Colorado Rockies
