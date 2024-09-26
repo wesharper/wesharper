@@ -3,8 +3,12 @@
 #### Things I'm Working on Now
 - Senior software engineer @[Colorado Rockies](https://rockies.com)
 
-#### Latest Technologies
-- Svelte
-- Typescript
-- PostgreSQL
-- Ruby on Rails (unfortunately)
+#### Technologies and Tools I've Been Using Recently
+- SvelteKit
+- NixOS
+- SST
+- Supabase
+- Python
+- R
+- Polars
+- AWS
