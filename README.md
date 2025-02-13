@@ -5,10 +5,10 @@
 
 #### Technologies and Tools I've Been Using Recently
 - SvelteKit
-- NixOS
+- Ruby on Rails
+- Meilisearch
 - SST
-- Supabase
 - Python
 - R
 - Polars
-- AWS
+- NixOS
