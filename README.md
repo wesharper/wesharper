@@ -1,14 +1,5 @@
-### Hi there 👋, I'm Weston - a software engineer, entrepreneur, and educator in Denver, CO.
-
-#### Things I'm Working on Now
-- Senior software engineer @[Colorado Rockies](https://rockies.com)
-
-#### Technologies and Tools I've Been Using Recently
-- SvelteKit
-- Ruby on Rails
-- Meilisearch
-- SST
-- Python
-- R
-- Polars
-- NixOS
+## Technologies and Tools I've Been Having Fun With Recently
+- [SvelteKit](https://svelte.dev)
+- [Meilisearch](https://meilisearch.com)
+- [SST](https://sst.dev)
+- [Omarchy](https://omarchy.org)
